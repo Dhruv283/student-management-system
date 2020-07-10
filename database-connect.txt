@@ -1,0 +1,22 @@
+How to connect database ?
+
+[1]first download and install XAMPP(www.apachefriends.org)
+
+[2]Start Apache and MySQL services in XAMPP
+
+[3]config MYSQL service in XAMPP
+
+[4]This command open database here create table 
+
+[5]Table name = stm 
+
+[6]Make 7 Columns in stm table
+
+Column name:-
+"Roll",
+"Name",
+"Email",
+"Gender",
+"Contact",
+"DOB",
+"Address" 
